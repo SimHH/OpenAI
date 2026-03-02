@@ -1,0 +1,17 @@
+[
+    {
+        "no": 1,
+        "eng": "Which of the following descriptions of the image is incorrect?\n\n- (1). There is only one sea turtle in the image.\n- (2). The sea turtle is swimming in clear water.\n- (3). There are several other marine creatures around.\n- (4). The sea turtle's shell is brown.",
+        "img": "matthew-mosbauer-roEHxjIr-Js-unsplash.jpg"
+    },
+    {
+        "no": 2,
+        "eng": "Which of the following descriptions of the image is incorrect?\n\n- (1). You can see a person holding a steering wheel.\n- (2). A desert landscape is visible outside the car window.\n- (3). There are tall buildings in the background.\n- (4). The driver is wearing a cap.",
+        "img": "nir-himi-g521j0feHE0-unsplash.jpg"
+    },
+    {
+        "no": 3,
+        "eng": "Which of the following descriptions of the image is incorrect?\n- (1). There are sand dunes adjacent to the sea.\n- (2). There are people walking in line on top of the sand dunes.\n- (3). The sky is clear and blue.\n- (4). Waves are crashing onto the shore.",
+        "img": "nir-himi-gSIjbABf9sc-unsplash.jpg"
+    }
+]
